@@ -6,7 +6,7 @@ const experiences = [
     company: "ProV International (Synlab)",
     date: "Nov 2023 – Present",
     highlights: [
-      "Led and ownedthe development of custom full-stack React applications, leveraging TypeScript to build type-safe, reusable component libraries used across the organization.",
+      "Led and owned the development of custom full-stack React applications, leveraging TypeScript to build type-safe, reusable component libraries used across the organization.",
       "Engineered decoupled frontend solutions that interface with complex data layers, optimizing state management and reducing API latency.",
       "Designed and deployed automated backend workflows and system integrations that streamlined core business operations, significantly reducing manual data entry.",
       "Managed the full SDLC, from initial systems design and schema modeling to CI/CD deployment and stakeholder sign-off.",

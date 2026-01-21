@@ -1,5 +1,4 @@
 "use client";
-// Import from the same library you used for the navbar
 import { EnvelopeIcon, ArrowUpRightIcon } from "@heroicons/react/24/outline";
 
 export default function ContactSocials() {
@@ -40,7 +39,6 @@ export default function ContactSocials() {
             className="flex items-center justify-between w-full p-4 border border-black rounded transition-all duration-300 group hover:border-black hover:shadow-lg bg-gray-50 hover:bg-white"
           >
             <div className="flex items-center gap-4">
-              {/* Added 'hidden sm:flex' to this container */}
               <div className="hidden sm:flex p-2 bg-white rounded-lg border border-gray-100 group-hover:border-black transition-colors">
                 {link.label === "Email Me" ? (
                   <EnvelopeIcon className="w-5 h-5 text-gray-400 group-hover:text-black" />
@@ -55,7 +53,6 @@ export default function ContactSocials() {
                 <span className="text-[10px] font-black text-gray-400 group-hover:text-black">
                   {link.label}
                 </span>
-                {/* Added 'break-all' to prevent long emails from breaking the layout on small screens */}
                 <span className="text-sm font-bold text-gray-800 break-all sm:break-normal">
                   {link.value}
                 </span>

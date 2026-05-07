@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Marc Xavier Pragata | Full Stack Developer",
   description:
-    "Full Stack Developer specializing using React, Next.js, Node.js, TypeScript, and MongoDB, with hands-on experience developing SPFx-based frontends, workflow automations, and system integrations on Microsoft 365 platforms",
+    "Full Stack Software Engineer with 5+ years of experience building scalable web applications and enterprise-grade solutions. Proficient in React, TypeScript, and Node.js, with a proven track record of designing custom frontend architectures and robust backend integrations. Specialized in transforming complex business requirements into high-performance digital products, spanning custom applications and automated enterprise workflows",
 };
 
 export default function RootLayout({

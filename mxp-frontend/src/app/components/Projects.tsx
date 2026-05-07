@@ -8,11 +8,11 @@ const projects: Project[] = [
   {
     title: "Procurement Dashboard",
     description:
-      "Dashboard used by our Procurement Team to create, modify, delete and manage Initiatives and Opportunities as well as track the item budgets, capex, opex, and actuals in a multi-step form.",
+      "Dashboard used by our Procurement Team to create, modify, delete, manage, and submit Initiatives and Opportunities as well as track the item budgets, capex, opex, and actuals in a multi-step form.",
     link: "#",
   },
   {
-    title: "Cost Portal Dashboard",
+    title: "IT Project Proposal Portal",
     description:
       "Dashboard used by our IT Team to create, modify, delete, manage, and submit project proposals that goes through a multi-step approval process with automated notifications to track budget, progress and status.",
     link: "#",
@@ -60,7 +60,7 @@ export default function Projects() {
             <p className="text-gray-700">{p.description}</p>
             {p.link &&
               p.title !== "Procurement Dashboard" &&
-              p.title !== "Cost Portal Dashboard" && (
+              p.title !== "IT Project Proposal Portal" && (
                 <a
                   href={p.link}
                   target="_blank"

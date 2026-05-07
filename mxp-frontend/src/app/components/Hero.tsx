@@ -21,8 +21,9 @@ export default function Hero() {
           </p>
 
           <p className="text-sm text-gray-600 transform transition-transform duration-300 ease-out origin-left hover:scale-110">
-            Full-stack developer · 4+ years experience · React · Next.js ·
-            Node.js · Express · TypeScript · SPFx · Microsoft 365 · MongoDB
+            Full-stack developer · 5+ years experience · React · Next.js ·
+            Node.js · Express · TypeScript · SPFx · Microsoft 365 · Power
+            Platform · MongoDB
           </p>
         </div>
 

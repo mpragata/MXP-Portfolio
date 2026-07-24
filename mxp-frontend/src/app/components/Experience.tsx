@@ -6,10 +6,13 @@ const experiences = [
     company: "ProV International (Synlab)",
     date: "Nov 2023 – Present",
     highlights: [
-      "Led and owned the development of custom full-stack React applications, leveraging TypeScript to build type-safe, reusable component libraries used across the organization.",
-      "Engineered decoupled frontend solutions that interface with complex data layers, optimizing state management and reducing API latency.",
-      "Designed and deployed automated backend workflows and system integrations that streamlined core business operations, significantly reducing manual data entry.",
-      "Managed the full SDLC, from initial systems design and schema modeling to CI/CD deployment and stakeholder sign-off.",
+      "Cut approval turnaround time by 70% by engineering automated backend workflows and instant notification systems that replaced manual approver follow-ups across multiple countries.",
+      "Delivered full-stack React/TypeScript applications used by cross-functional stakeholders in multiple countries, owning the complete SDLC as one of two engineers on the team.",
+      "Eliminated manual data-entry bottlenecks by integrating SharePoint, Power Automate, and third-party services at enterprise scale; led client training sessions across multiple projects.",
+      "Provide ongoing Tier 2/3 support for SharePoint and Power Platform environments, including inherited systems, resolving permissions issues, workflow failures, site performance problems, and SPFx bugs.",
+      "Migrated SharePoint sites from classic to modern experience, restructuring site architecture while preserving content and permissions.",
+      "Manage Azure AD user accounts/permissions alongside SPFx development, extending into platform administration.",
+      "Design site columns, content types, and hub site architecture — including hub site configuration and site associations — to support scalable SPFx webpart deployment."
     ],
   },
   {

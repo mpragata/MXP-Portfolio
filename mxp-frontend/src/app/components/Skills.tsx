@@ -8,14 +8,21 @@ const skills = {
     "TailwindCSS",
     "Zustand",
     "React Router",
+    "Responsive Design",
+    "HTML5",
+    "CSS3"
   ],
-  Backend: ["Node.js", "Express.js", "MongoDB", "JWT Auth"],
+  Backend: ["Node.js", "Express.js", "MongoDB", "JWT Auth", "REST APIs", "CORS", "Axios", "Postman", "Laravel", "Database Design"],
   "Enterprise & Automation": [
     "SharePoint",
     "SPFx",
     "Power Automate",
     "Power Apps",
     "Microsoft 365",
+    "ServiceNow",
+    "Site Architecture",
+    "Azure AD",
+    "Microsoft Graph API",
   ],
   "Tools & DevOps": [
     "Jest",
@@ -25,6 +32,7 @@ const skills = {
     "Axios",
     "Vercel",
     "Render",
+    "CI/CD"
   ],
 };
 

@@ -25,7 +25,7 @@ export default function ContactSocials() {
       <div className="mb-8">
         <h2 className="text-2xl mb-2 font-bold">Let's work together</h2>
         <p className="text-gray-500 text-sm font-medium">
-          Open to remote full-time full-stack developer positions.
+          Open to remote full-time full-stack developer / M365 positions.
         </p>
       </div>
 
